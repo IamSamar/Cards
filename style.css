@@ -1,0 +1,61 @@
+body{
+  background-image: url(bg.jpg);
+  overflow-y: scroll;
+}
+.google-card {
+	border: 2px solid gray;
+	height: 200px;
+	width: 317px;
+	margin: 161px 442px 69px 483px;
+	background-color: #ba68c8;
+}
+.space{
+  padding:20px;
+}
+.center{
+  text-align:center;
+}
+.info{
+  text-align:justify;
+}
+.bold{
+  font-weight: bold;
+}
+.links {
+  padding:2px;
+  margin:20px;
+
+}
+.yahoo-card {
+	border: 2px solid gray;
+	height: 200px;
+	width: 317px;
+	margin-top: -272px;
+	background-color: #f5a805;
+	margin-left: 136px;
+}
+.facebook-card {
+	border: 2px solid gray;
+	height: 200px;
+	width: 317px;
+	margin-top: -204px;
+	background-color: #b57794;
+	margin-left: 830px;
+}
+.insta-card {
+	border: 2px solid gray;
+	height: 200px;
+	width: 317px;
+	margin-top: 16px;
+	background-color: #d9626f;
+	margin-left: 135px;
+}
+
+.twitter-card {
+	border: 2px solid gray;
+	height: 200px;
+	width: 317px;
+	margin-top: -203px;
+	background-color: #d1b430;
+	margin-left: 483px;
+}
